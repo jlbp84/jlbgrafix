@@ -277,7 +277,7 @@ h1, h2, h3, h4, h5, h6 {
 * Mobile Navigation */
 
 .mobile-nav-toggle {
-  color: #fff;
+  color: #000000;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -336,7 +336,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
   color: #151515;
-  background-color: #ffc451;
+  background-color: #01b09a;
 }
 
 .navbar-mobile .getstarted {
