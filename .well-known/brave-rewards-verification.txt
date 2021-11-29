@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jlbgrafix.studio
+Token: a6d9b463d6a8cc93b4c8bbbf9438df2a0a82bc9724aaf636ca0c4903a1c5d25a
